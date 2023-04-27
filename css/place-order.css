@@ -13,3 +13,12 @@
 .row{
     margin: 20px;
 }
+.order-id{
+    color: #0a53be;
+}
+.total{
+    color: #0f5132;
+}
+.date{
+   text-align: end;
+}
