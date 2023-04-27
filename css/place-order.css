@@ -1,0 +1,15 @@
+.place-order-form, .add-to-order{
+    margin: 20px;
+}
+.heading{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: -50px;
+}
+.billing-table{
+    margin: 20px;
+    background-color: #f8f9fa;
+}
+.row{
+    margin: 20px;
+}
