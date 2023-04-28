@@ -21,3 +21,13 @@
     flex-direction: row;
     gap: 20px;
 }
+.pos{
+    color: #006D32;
+    margin: 20px;
+}
+.content{
+    margin: 20px;
+}
+.customers, .orders{
+    color: #1864BD;
+}
