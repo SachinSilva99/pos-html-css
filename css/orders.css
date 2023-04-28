@@ -3,7 +3,6 @@
 *{
     font-family: 'Poppins', sans-serif;
 }
-
-.customer-form, .table{
+.row{
     margin: 20px;
 }
